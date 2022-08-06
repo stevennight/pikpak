@@ -5,7 +5,7 @@ export const proxy = [
   // 'https://api.16pikpak.cf',
   // 'https://api.17pikpak.cf',
   // 'https://api.18pikpak.cf',
-  'http://pikpak-proxy.24-7to.icu'
+  'https://pikpak-proxy.24-7to.icu'
 ]
 
 export const version = '1.0.0'
