@@ -38,7 +38,7 @@ import { CloudUpload } from '@vicons/tabler'
   const uploadRef = ref()
   const route = useRoute()
   const fileListRef = ref<UploadFileInfo[]>()
-  const max = ref(5)
+  const max = ref(10)
   const uploadig = ref(0)
   const fileUpload = ref<{
     [key:string]: {
